@@ -1,0 +1,21 @@
+{
+    "users": [
+      {
+        "name": "Bruno Joliveau",
+        "photo": "../img/bruno.png"
+      },
+      {
+        "name": "Quentin Lavallée",
+        "photo": "../img/quentin.png"
+      },
+      {
+        "name": "Julien Jézéquel",
+        "photo": "../img/julien.png"
+      },
+      {
+        "name": "Abdellatif Benzbiria",
+        "photo": "../img/abdellatif.png"
+      }
+    ]
+  }
+  
